@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 700px;
+
+    .inf{
+        display: flex;
+        align-items: center;
+    }
+}

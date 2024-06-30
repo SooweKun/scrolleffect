@@ -1,0 +1,16 @@
+.navig{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    width: 465px;
+    height: 70px;
+    background: rgba(217, 217, 217, 0.4);
+    margin-top: 109px;
+    border-radius: 7px;
+
+    >a{
+        text-decoration: none;
+        color: white;
+    }
+}
